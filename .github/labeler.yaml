@@ -1,0 +1,19 @@
+area/html:
+- changed-files:
+  - any-glob-to-any-file: "html/**/*"
+
+area/github:
+- changed-files:
+  - any-glob-to-any-file: ".github/**/*"
+
+area/docker:
+- changed-files:
+  - any-glob-to-any-file: "docker/**/*"
+
+area/miscellaneous:
+- changed-files:
+  - any-glob-to-any-file: "miscellaneous/**/*"
+
+area/main:
+- changed-files:
+  - any-glob-to-any-file: "*"

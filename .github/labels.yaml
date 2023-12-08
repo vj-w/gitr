@@ -1,0 +1,23 @@
+# Area
+- name: area/docker
+  color: "72ccf3"
+  description: "Changes made in the docker directory"
+- name: area/github
+  color: "72ccf3"
+  description: "Changes made in the .github directory"
+- name: area/html
+  color: "72ccf3"
+  description: "Changes made in the html directory"
+- name: area/miscellaneous
+  color: "72ccf3"
+  description: "Changes made in the miscellaneous directory"
+- name: area/main
+  color: "72ccf3"
+  description: "Changes made in the main directory"
+# Others
+- name: bug
+  color: "d73a4a"
+  description: "Something isn't working"
+- name: keep
+  color: "01717f"
+  description: "Keep issue open"
